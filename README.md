@@ -93,12 +93,12 @@ Answer
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 
+Question 4: 
 What is the purpose of setting a root password during MySQL installation?
 
-A) To create a user account for your MySQL server
+Answer
 B) To secure your MySQL installation with a super-secret password
-C) To activate MySQL Workbench
-D) To allow multiple users to access MySQL
+
 
 How do you begin managing your database after installing MySQL?
 
