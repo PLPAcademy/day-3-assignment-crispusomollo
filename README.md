@@ -34,33 +34,33 @@ C) flutter run
 
 #Python Installation
 
-Question: 
+Question 1: 
 What is the first step to install Python on a Windows system?
 
 Answer
 B) Download Python from the official website
 
 
-Question:
+Question 2:
 Which option should you ensure is checked during Python installation on Windows?
 
 Answer
 C) Add Python to PATH
 
 
-Question:
+Question 3:
 How do you verify Python installation on any system?
 
 Answer
 A) By running python --version
 
 
+Question 4:
 What command is used to install pip on macOS and Linux?
 
-A) sudo install pip
-B) pip install python
+Answer
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-D) python --install pip
+
 
 What is the purpose of a virtual environment in Python?
 
