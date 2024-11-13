@@ -5,13 +5,11 @@
 # Environment Setup Assignment
 
 #Dart & Flutter
-
+Question
 1. What is the first step for installing Dart on a Windows machine?
 
-A) Install Homebrew
+Answer
 B) Download the Dart SDK
-C) Update your PATH
-D) Run Dart Doctor
 
 
 2. Which command verifies the Dart installation on macOS?
