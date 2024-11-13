@@ -41,12 +41,12 @@ Answer
 B) Download Python from the official website
 
 
+Question:
 Which option should you ensure is checked during Python installation on Windows?
 
-A) Install with default settings
-B) Install to a custom directory
+Answer
 C) Add Python to PATH
-D) Install all available features
+
 
 How do you verify Python installation on any system?
 
