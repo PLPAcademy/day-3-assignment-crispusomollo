@@ -12,11 +12,10 @@ Answer
 B) Download the Dart SDK
 
 
+Question
 2. Which command verifies the Dart installation on macOS?
 
-A) dart --install
-B) dart --check
-C) dart --verify
+Answer
 D) dart --version
 
 
