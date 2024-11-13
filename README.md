@@ -48,12 +48,12 @@ Answer
 C) Add Python to PATH
 
 
+Question:
 How do you verify Python installation on any system?
 
+Answer
 A) By running python --version
-B) By restarting your computer
-C) By opening the Python installer again
-D) By checking the Programs and Features in Control Panel
+
 
 What command is used to install pip on macOS and Linux?
 
