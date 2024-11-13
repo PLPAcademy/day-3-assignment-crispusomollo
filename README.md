@@ -79,12 +79,12 @@ Answer
 B) Download MySQL Installer from the official website
 
 
+Question 2: 
 What setup type should you choose for a custom MySQL installation?
 
-A) Developer Default
-B) Server Only
-C) Full
+Answer
 D) Custom
+
 
 Which products should you select during the MySQL installation?
 
