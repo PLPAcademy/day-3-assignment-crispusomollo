@@ -69,14 +69,15 @@ Answer
 C) To separate project dependencies and avoid conflicts
 
 
+
 #MySQL Installation
 
+Question 1:
 What is the first step to install MySQL on Windows?
 
-A) Download MySQL Shell
+Answer
 B) Download MySQL Installer from the official website
-C) Install MySQL Workbench
-D) Set up a root password
+
 
 What setup type should you choose for a custom MySQL installation?
 
