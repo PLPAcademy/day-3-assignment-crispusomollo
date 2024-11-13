@@ -24,12 +24,11 @@ Answer
 B) Update your PATH
 
 
-4. What command is used to run a newly created Flutter app?
+Question 4:
+What command is used to run a newly created Flutter app?
 
-A) flutter start
-B) flutter build
+Answer
 C) flutter run
-D) flutter init
 
 
 #Python Installation
