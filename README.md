@@ -62,12 +62,12 @@ Answer
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 
+Question 5:
 What is the purpose of a virtual environment in Python?
 
-A) To keep your projects organized in one folder
-B) To install Python in a different directory
+Answer
 C) To separate project dependencies and avoid conflicts
-D) To enhance Python performance on your system
+
 
 #MySQL Installation
 
